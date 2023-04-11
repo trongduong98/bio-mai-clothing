@@ -12,6 +12,7 @@ export class HomePageComponent implements OnInit {
   }
 
   public handleClick(eventName: string) {
+    /* A switch statement. It is used to perform different actions based on different conditions. */
     switch(eventName) {
       case 'facebook':
         window.open("https://www.facebook.com/MaiClothing.vn");
