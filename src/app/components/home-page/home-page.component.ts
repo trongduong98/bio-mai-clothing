@@ -27,7 +27,7 @@ export class HomePageComponent implements OnInit {
         window.open("https://www.tiktok.com/@maiclothing1");
         break;
       case 'zalo':
-        window.open("https://zalo.me/g/vlqefv859","_blank");
+        window.location.replace("https://zalo.me/g/vlqefv859");
         break;
       default:
         break;
