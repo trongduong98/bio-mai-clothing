@@ -27,9 +27,7 @@ export class HomePageComponent implements OnInit {
         window.open("https://www.tiktok.com/@maiclothing1");
         break;
       case 'zalo':
-        setTimeout(() => {
-          window.location.replace("https://zalo.me/g/vlqefv859"); 
-        }, 10000);
+        window.open("https://zalo.me/g/vlqefv859");
         break;
       default:
         break;
