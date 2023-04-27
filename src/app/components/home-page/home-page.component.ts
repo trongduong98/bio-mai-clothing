@@ -23,8 +23,14 @@ export class HomePageComponent implements OnInit {
       case 'shoppe':
         window.open("https://shopee.vn/maiclothing271220");
         break;
-      case 'tiktok':
+      case 'tiktok_0':
+        window.open("https://www.tiktok.com/@tuyet_mai1006");
+        break;
+      case 'tiktok_1':
         window.open("https://www.tiktok.com/@maiclothing1");
+        break;
+      case 'tiktok_2':
+        window.open("https://www.tiktok.com/@maiclothing2");
         break;
       case 'zalo':
         window.open("https://zalo.me/g/vlqefv859");
