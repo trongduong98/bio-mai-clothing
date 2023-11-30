@@ -21,7 +21,7 @@ export class HomePageComponent implements OnInit {
         window.open("https://www.instagram.com/m.a.i_clothings/");
         break;
       case 'shoppe':
-        window.open("https://shopee.vn/maiclothing271220");
+        window.open("https://shopee.vn/maiclothing.vn");
         break;
       case 'tiktok_0':
         window.open("https://www.tiktok.com/@tuyet_mai1006");
